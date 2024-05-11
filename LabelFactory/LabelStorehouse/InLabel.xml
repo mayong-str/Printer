@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Label>
+  <BasicInfo>
+    <Name>InLabel</Name>
+    <Width_mm>70</Width_mm>
+    <Height_mm>25</Height_mm>
+	<LabelsPerLine>1</LabelsPerLine>
+    <Gap_mm>0</Gap_mm>
+    <DotPerMillimeter>8</DotPerMillimeter>
+    <Width_Dot>560</Width_Dot>
+    <Height_Dot>200</Height_Dot>
+  </BasicInfo>
+  <Elements>
+    <Text ID="Text0" X="4" Y="10">
+      <Context>900克原味鸡蛋卷材</Context>
+      <Width>550</Width>
+      <Height>40</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="24" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping>Product_Name</Mapping>
+    </Text>
+    <Line ID="Line0" X="0" Y="0">
+      <Length>600</Length>
+      <Thickness>3</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line1" X="1" Y="52">
+      <Length>600</Length>
+      <Thickness>3</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Text ID="Text1" X="4" Y="56">
+      <Context>W3</Context>
+      <Width>550</Width>
+      <Height>40</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="24" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping>Lot_Name</Mapping>
+    </Text>
+    <Line ID="Line2" X="1" Y="97">
+      <Length>600</Length>
+      <Thickness>3</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Barcode ID="Barcode0" X="60" Y="102">
+      <Context>20200522100052</Context>
+      <Height>90</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Magnify>4</Magnify>
+      <Type>Code128C</Type>
+      <TextPosition>BottomCenter</TextPosition>
+      <Font Size="18" Style="Bold">黑体</Font>
+      <Mapping>Barcode</Mapping>
+    </Barcode>
+  </Elements>
+</Label>

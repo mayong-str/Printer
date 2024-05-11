@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Label>
+  <BasicInfo>
+    <Name>45x15长江一1班</Name>
+    <Width_mm>45</Width_mm>
+    <Height_mm>15</Height_mm>
+    <LabelsPerLine>2</LabelsPerLine>
+    <Gap_mm>2</Gap_mm>
+    <DotPerMillimeter>8</DotPerMillimeter>
+    <Width_Dot>360</Width_Dot>
+    <Height_Dot>120</Height_Dot>
+    <Gap_Dot>16</Gap_Dot>
+  </BasicInfo>
+  <Elements>
+    <Text ID="Text0" X="24" Y="20">
+      <Context>2王石聿竹</Context>
+      <Width>0</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="48" Style="Regular">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping>text0</Mapping>
+    </Text>
+  </Elements>
+</Label>

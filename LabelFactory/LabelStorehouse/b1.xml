@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Label>
+  <BasicInfo>
+    <BackColor>#FF0000</BackColor>
+    <Name>b1</Name>
+    <Width_mm>70</Width_mm>
+    <Height_mm>50</Height_mm>
+    <LabelsPerLine>1</LabelsPerLine>
+    <Gap_mm>0</Gap_mm>
+    <DotPerMillimeter>8</DotPerMillimeter>
+    <Width_Dot>560</Width_Dot>
+    <Height_Dot>400</Height_Dot>
+    <Gap_Dot>0</Gap_Dot>
+  </BasicInfo>
+  <Elements />
+</Label>

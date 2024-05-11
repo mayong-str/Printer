@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Label>
+  <BasicInfo>
+    <Name>testLabel_140mm×50mm</Name>
+    <Width_mm>140</Width_mm>
+    <Height_mm>50</Height_mm>
+    <LabelsPerLine>1</LabelsPerLine>
+    <Gap_mm>0</Gap_mm>
+    <DotPerMillimeter>12</DotPerMillimeter>
+    <Width_Dot>1680</Width_Dot>
+    <Height_Dot>600</Height_Dot>
+    <Gap_Dot>0</Gap_Dot>
+  </BasicInfo>
+  <Elements>
+    <Line ID="Line0" X="60" Y="60" ForeColor="#FF000000">
+      <Length>520</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line1" X="60" Y="60" ForeColor="#FF000000">
+      <Length>480</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line2" X="60" Y="540" ForeColor="#FF000000">
+      <Length>520</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line3" X="580" Y="60" ForeColor="#FF000000">
+      <Length>480</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line4" X="1020" Y="60" ForeColor="#FF000000">
+      <Length>580</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line5" X="1020" Y="60" ForeColor="#FF000000">
+      <Length>480</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line6" X="1020" Y="540" ForeColor="#FF000000">
+      <Length>580</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line7" X="1600" Y="60" ForeColor="#FF000000">
+      <Length>480</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+  </Elements>
+</Label>

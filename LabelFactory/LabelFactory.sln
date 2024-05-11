@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelDesigner", "LabelFactory\LabelDesigner.csproj", "{38AE4310-7FD9-4C1B-BC8B-A74A628562A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibUsbDotNet", "LibWinUsb\LibUsbDotNet.csproj", "{0A78F6FF-5586-4052-8104-E23FF83A7CE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelCommon", "LabelCommon\LabelCommon.csproj", "{6BD7A0D9-98E0-4037-8CF6-EFAA321FDFDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelMaker", "LabelMaker\LabelMaker.csproj", "{8F770EA6-FA72-4CC4-B0C1-B77A126B5E03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38AE4310-7FD9-4C1B-BC8B-A74A628562A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AE4310-7FD9-4C1B-BC8B-A74A628562A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AE4310-7FD9-4C1B-BC8B-A74A628562A8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{38AE4310-7FD9-4C1B-BC8B-A74A628562A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AE4310-7FD9-4C1B-BC8B-A74A628562A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38AE4310-7FD9-4C1B-BC8B-A74A628562A8}.Release|x86.ActiveCfg = Release|Any CPU
+		{0A78F6FF-5586-4052-8104-E23FF83A7CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A78F6FF-5586-4052-8104-E23FF83A7CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A78F6FF-5586-4052-8104-E23FF83A7CE1}.Debug|x86.ActiveCfg = Debug|x86
+		{0A78F6FF-5586-4052-8104-E23FF83A7CE1}.Debug|x86.Build.0 = Debug|x86
+		{0A78F6FF-5586-4052-8104-E23FF83A7CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A78F6FF-5586-4052-8104-E23FF83A7CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A78F6FF-5586-4052-8104-E23FF83A7CE1}.Release|x86.ActiveCfg = Release|x86
+		{0A78F6FF-5586-4052-8104-E23FF83A7CE1}.Release|x86.Build.0 = Release|x86
+		{6BD7A0D9-98E0-4037-8CF6-EFAA321FDFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BD7A0D9-98E0-4037-8CF6-EFAA321FDFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BD7A0D9-98E0-4037-8CF6-EFAA321FDFDD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6BD7A0D9-98E0-4037-8CF6-EFAA321FDFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BD7A0D9-98E0-4037-8CF6-EFAA321FDFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BD7A0D9-98E0-4037-8CF6-EFAA321FDFDD}.Release|x86.ActiveCfg = Release|Any CPU
+		{8F770EA6-FA72-4CC4-B0C1-B77A126B5E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F770EA6-FA72-4CC4-B0C1-B77A126B5E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F770EA6-FA72-4CC4-B0C1-B77A126B5E03}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8F770EA6-FA72-4CC4-B0C1-B77A126B5E03}.Debug|x86.Build.0 = Debug|Any CPU
+		{8F770EA6-FA72-4CC4-B0C1-B77A126B5E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F770EA6-FA72-4CC4-B0C1-B77A126B5E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F770EA6-FA72-4CC4-B0C1-B77A126B5E03}.Release|x86.ActiveCfg = Release|Any CPU
+		{8F770EA6-FA72-4CC4-B0C1-B77A126B5E03}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44C22A86-BA5E-416C-930D-8FB4F36A850A}
+	EndGlobalSection
+EndGlobal

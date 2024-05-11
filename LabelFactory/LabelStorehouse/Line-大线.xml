@@ -1,0 +1,669 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Label>
+  <BasicInfo>
+    <Name>Line</Name>
+    <Width_mm>70</Width_mm>
+    <Height_mm>158</Height_mm>
+    <LabelsPerLine>1</LabelsPerLine>
+    <Gap_mm>0</Gap_mm>
+    <DotPerMillimeter>8</DotPerMillimeter>
+    <Width_Dot>560</Width_Dot>
+    <Height_Dot>1264</Height_Dot>
+    <Gap_Dot>0</Gap_Dot>
+  </BasicInfo>
+  <Elements>
+    <QrCode ID="QrCode0" X="360" Y="40" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>123456789</Context>
+      <ErrorCorrectionLevel>M</ErrorCorrectionLevel>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Magnify>5</Magnify>
+      <Mapping></Mapping>
+    </QrCode>
+    <Line ID="Line0" X="24" Y="173" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Text ID="Text0" X="48" Y="96" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>3423001231</Context>
+      <Width>200</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Line ID="Line1" X="24" Y="173" ForeColor="#FF000000">
+      <Length>400</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line2" X="536" Y="173" ForeColor="#FF000000">
+      <Length>400</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line3" X="24" Y="573" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line4" X="280" Y="173" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line5" X="408" Y="173" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line6" X="24" Y="213" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line7" X="24" Y="253" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line8" X="280" Y="213" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line9" X="408" Y="213" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line10" X="24" Y="293" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line11" X="24" Y="333" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line12" X="288" Y="293" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line13" X="24" Y="373" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line14" X="152" Y="333" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line15" X="24" Y="413" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line16" X="152" Y="373" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line17" X="24" Y="453" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line18" X="24" Y="493" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line19" X="24" Y="533" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line20" X="152" Y="493" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line21" X="280" Y="493" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line22" X="408" Y="493" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line23" X="152" Y="533" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line24" X="280" Y="533" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line25" X="408" Y="533" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Text ID="Text1" X="48" Y="179" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>WXSL1 TRAIN</Context>
+      <Width>200</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text2" X="295" Y="179" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>05</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text3" X="424" Y="179" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>M1</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text4" X="48" Y="219" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>351371A003</Context>
+      <Width>200</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text5" X="295" Y="219" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>线长</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text6" X="424" Y="219" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>6</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text7" X="90" Y="259" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>(90) 1.8/3kv 50 MM</Context>
+      <Width>400</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text8" X="60" Y="299" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>310123.001</Context>
+      <Width>200</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text9" X="314" Y="299" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>PB05-EL1A</Context>
+      <Width>200</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text10" X="40" Y="339" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>+351</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text11" X="200" Y="339" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>=99-XT351.21/6A</Context>
+      <Width>300</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text12" X="40" Y="380" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>+371</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text13" X="200" Y="379" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>=99-XT371.1/6A</Context>
+      <Width>300</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text14" X="90" Y="419" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>车端端子排</Context>
+      <Width>400</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text15" X="90" Y="459" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>低压柜端子排</Context>
+      <Width>400</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text16" X="40" Y="499" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>数量</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text17" X="178" Y="499" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>1</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text18" X="297" Y="499" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>序号</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text19" X="427" Y="499" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>3</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Line ID="Line26" X="24" Y="637" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line27" X="24" Y="637" ForeColor="#FF000000">
+      <Length>400</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line28" X="24" Y="1037" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line29" X="536" Y="637" ForeColor="#FF000000">
+      <Length>400</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line30" X="24" Y="677" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line31" X="152" Y="637" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line32" X="280" Y="637" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line33" X="408" Y="637" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line34" X="24" Y="717" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line35" X="152" Y="677" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line36" X="280" Y="677" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line37" X="408" Y="677" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line38" X="24" Y="757" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line39" X="24" Y="797" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line40" X="24" Y="837" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line41" X="408" Y="797" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line42" X="24" Y="877" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line43" X="408" Y="837" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line44" X="24" Y="917" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line45" X="288" Y="877" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line46" X="24" Y="957" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line47" X="24" Y="997" ForeColor="#FF000000">
+      <Length>512</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line48" X="152" Y="957" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line49" X="280" Y="957" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line50" X="152" Y="997" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line51" X="280" Y="997" ForeColor="#FF000000">
+      <Length>40</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Text ID="Text20" X="40" Y="682" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>3</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text21" X="170" Y="682" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>序号</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text22" X="307" Y="680" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>1</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text23" X="425" Y="682" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>数量</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text24" X="90" Y="722" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>低压柜端子排</Context>
+      <Width>400</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text25" X="90" Y="762" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>车端端子排</Context>
+      <Width>400</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text26" X="60" Y="802" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>=99-XT371.1/6A</Context>
+      <Width>300</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text27" X="425" Y="802" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>+371</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text28" X="60" Y="842" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>=99-XT351.21/6A</Context>
+      <Width>300</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text29" X="425" Y="845" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>+351</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text30" X="60" Y="882" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>PB05-EL1A</Context>
+      <Width>200</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text31" X="312" Y="887" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>310123.001</Context>
+      <Width>200</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text32" X="90" Y="922" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>(90) 1.8/3kv 50 MM</Context>
+      <Width>400</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text33" X="40" Y="962" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>6</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text34" X="170" Y="962" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>线长</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text35" X="310" Y="962" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>351371A003</Context>
+      <Width>200</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text36" X="40" Y="1002" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>M1</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text37" X="170" Y="1002" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>05</Context>
+      <Width>100</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text38" X="310" Y="1004" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>WXSL1 TRAIN</Context>
+      <Width>200</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <QrCode ID="QrCode1" X="48" Y="1053" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>123456789</Context>
+      <ErrorCorrectionLevel>M</ErrorCorrectionLevel>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Magnify>5</Magnify>
+    </QrCode>
+    <Text ID="Text39" X="310" Y="1120" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>3423001231</Context>
+      <Width>200</Width>
+      <Height>30</Height>
+      <RotateFlip>Rotate180FlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+  </Elements>
+</Label>

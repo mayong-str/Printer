@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Label>
+  <BasicInfo>
+    <Name>70mmX50mm_12dot</Name>
+    <Width_mm>70</Width_mm>
+    <Height_mm>50</Height_mm>
+    <LabelsPerLine>1</LabelsPerLine>
+    <Gap_mm>0</Gap_mm>
+    <DotPerMillimeter>12</DotPerMillimeter>
+    <Width_Dot>840</Width_Dot>
+    <Height_Dot>600</Height_Dot>
+    <Gap_Dot>0</Gap_Dot>
+  </BasicInfo>
+  <Elements>
+    <Barcode ID="Barcode0" X="125" Y="327" ForeColor="#FFFF0000" BackColor="#FF80FFFF">
+      <Context>1234567890</Context>
+      <Height>40</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Magnify>3</Magnify>
+      <Type>Code128B</Type>
+      <TextPosition>BottomCenter</TextPosition>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Mapping></Mapping>
+    </Barcode>
+    <Text ID="Text0" X="206" Y="50" ForeColor="#FFFF8080" BackColor="#FFFFFFFF">
+      <Context>杭州和华电气工程有限公司</Context>
+      <Width>300</Width>
+      <Height>60</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="21.75" Style="Bold">微软雅黑</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <QrCode ID="QrCode0" X="209" Y="131" ForeColor="#FF0000FF" BackColor="#FFFFFFFF">
+      <Context>asdfghjkl;'</Context>
+      <ErrorCorrectionLevel>M</ErrorCorrectionLevel>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Magnify>8</Magnify>
+      <Mapping></Mapping>
+    </QrCode>
+    <Line ID="Line0" X="20" Y="20" ForeColor="#FFFF0000">
+      <Length>800</Length>
+      <Thickness>4</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line1" X="23" Y="517" ForeColor="#FFFF8000">
+      <Length>800</Length>
+      <Thickness>4</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line2" X="17" Y="21" ForeColor="#FF8000FF">
+      <Length>500</Length>
+      <Thickness>4</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line3" X="821" Y="19" ForeColor="#FF00FF80">
+      <Length>500</Length>
+      <Thickness>4</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Barcode ID="Barcode1" X="66" Y="34" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>09876543210987654321</Context>
+      <Height>60</Height>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+      <Magnify>1</Magnify>
+      <Type>Code128B</Type>
+      <TextPosition>TopCenter</TextPosition>
+      <Font Size="10.5" Style="Regular">宋体</Font>
+      <Mapping></Mapping>
+    </Barcode>
+  </Elements>
+</Label>

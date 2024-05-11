@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Label>
+  <BasicInfo>
+    <Name>qse</Name>
+    <Width_mm>140</Width_mm>
+    <Height_mm>50</Height_mm>
+    <LabelsPerLine>1</LabelsPerLine>
+    <Gap_mm>0</Gap_mm>
+    <DotPerMillimeter>8</DotPerMillimeter>
+    <Width_Dot>1120</Width_Dot>
+    <Height_Dot>400</Height_Dot>
+    <Gap_Dot>0</Gap_Dot>
+  </BasicInfo>
+  <Elements>
+    <Text ID="Text0" X="186" Y="124" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>asad</Context>
+      <Width>0</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="15" Style="Bold">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <QrCode ID="QrCode0" X="494" Y="47" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>1234567890123456789012345678901234567890123456789012345678901234567890</Context>
+      <ErrorCorrectionLevel>M</ErrorCorrectionLevel>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Magnify>4</Magnify>
+      <Mapping></Mapping>
+    </QrCode>
+    <QrCode ID="QrCode1" X="304" Y="47" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>111111111111111111111111111111111111111111111111111111111111111111</Context>
+      <ErrorCorrectionLevel>M</ErrorCorrectionLevel>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Magnify>4</Magnify>
+    </QrCode>
+    <QrCode ID="QrCode2" X="677" Y="47" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>22222222222222222222222222222222222222222222222222222222222222222222222222222222989898767898767898767899987667899987898</Context>
+      <ErrorCorrectionLevel>M</ErrorCorrectionLevel>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Magnify>4</Magnify>
+    </QrCode>
+    <Text ID="Text1" X="353" Y="180" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>66</Context>
+      <Width>0</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text2" X="535" Y="182" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>70</Context>
+      <Width>0</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text3" X="739" Y="186" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>80</Context>
+      <Width>0</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+  </Elements>
+</Label>

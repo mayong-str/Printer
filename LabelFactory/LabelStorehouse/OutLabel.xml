@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Label>
+  <BasicInfo>
+    <Name>OutLabel</Name>
+    <Width_mm>100</Width_mm>
+    <Height_mm>75</Height_mm>
+	<LabelsPerLine>1</LabelsPerLine>
+    <Gap_mm>0</Gap_mm>
+    <DotPerMillimeter>8</DotPerMillimeter>
+    <Width_Dot>800</Width_Dot>
+    <Height_Dot>600</Height_Dot>
+  </BasicInfo>
+  <Elements>
+    <Text ID="Text0" X="6" Y="90">
+      <Context>河北智优捷新材料科技有限公司</Context>
+      <Width>780</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="27.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Line ID="Line0" X="27" Y="138">
+      <Length>750</Length>
+      <Thickness>5</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line1" X="26" Y="493">
+      <Length>750</Length>
+      <Thickness>5</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line2" X="27" Y="196">
+      <Length>750</Length>
+      <Thickness>4</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line3" X="26" Y="254">
+      <Length>750</Length>
+      <Thickness>4</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line4" X="27" Y="313">
+      <Length>750</Length>
+      <Thickness>4</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line5" X="28" Y="368">
+      <Length>583</Length>
+      <Thickness>4</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Text ID="Text1" X="23" Y="514">
+      <Context>地址:</Context>
+      <Width>0</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="15.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text2" X="88" Y="515">
+      <Context>河北省邢台市南和县贾宋镇东兴东大街北侧</Context>
+      <Width>0</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="15.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text3" X="22" Y="545">
+      <Context>联系电话:</Context>
+      <Width>0</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="15.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text5" X="324" Y="545">
+      <Context>传真:</Context>
+      <Width>0</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="15.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Line ID="Line6" X="26" Y="139">
+      <Length>355</Length>
+      <Thickness>5</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line7" X="772" Y="141">
+      <Length>357</Length>
+      <Thickness>5</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line8" X="179" Y="139">
+      <Length>355</Length>
+      <Thickness>4</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line9" X="322" Y="196">
+      <Length>173</Length>
+      <Thickness>4</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line10" X="468" Y="197">
+      <Length>173</Length>
+      <Thickness>4</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line11" X="608" Y="197">
+      <Length>298</Length>
+      <Thickness>4</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line12" X="26" Y="427">
+      <Length>583</Length>
+      <Thickness>4</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Text ID="Text8" X="35" Y="153">
+      <Context>产品名称</Context>
+      <Width>140</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="21.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text9" X="34" Y="212">
+      <Context>规格[mm]</Context>
+      <Width>140</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="21.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text10" X="35" Y="271">
+      <Context>净重[KG]</Context>
+      <Width>140</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="21.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text11" X="35" Y="326">
+      <Context>数 量</Context>
+      <Width>140</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="21.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping>String0</Mapping>
+    </Text>
+    <Text ID="Text12" X="35" Y="383">
+      <Context>生产日期</Context>
+      <Width>140</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="21.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text13" X="187" Y="152">
+      <Context>900克原味鸡蛋卷材</Context>
+      <Width>580</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="24" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping>Product_Name</Mapping>
+    </Text>
+    <Text ID="Text14" X="189" Y="206">
+      <Context>100*35</Context>
+      <Width>130</Width>
+      <Height>45</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="18" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping>Mark_String</Mapping>
+    </Text>
+    <Text ID="Text15" X="332" Y="212">
+      <Context>保质期</Context>
+      <Width>130</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="21.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text16" X="475" Y="212">
+      <Context>12个月</Context>
+      <Width>130</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="21.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping>Expiration_Date_String</Mapping>
+    </Text>
+    <Text ID="Text17" X="617" Y="211">
+      <Context>食品用</Context>
+      <Width>150</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="21.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text18" X="188" Y="269">
+      <Context>21.50</Context>
+      <Width>130</Width>
+      <Height>40</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="21.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping>Weight</Mapping>
+    </Text>
+    <Text ID="Text19" X="327" Y="272">
+      <Context>等级:优</Context>
+      <Width>140</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="21.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping>Product_Grade_String</Mapping>
+    </Text>
+    <Text ID="Text20" X="475" Y="271">
+      <Context>执行标准</Context>
+      <Width>130</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="21.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text21" X="616" Y="268">
+      <Context>Q/ZYJ 01-2019</Context>
+      <Width>150</Width>
+      <Height>40</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="15.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text22" X="188" Y="327">
+      <Context>1</Context>
+      <Width>130</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="21.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping>String1</Mapping>
+    </Text>
+    <Text ID="Text23" X="327" Y="327">
+      <Context>质检员</Context>
+      <Width>140</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="21.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text24" X="185" Y="383">
+      <Context>2020年05月22日</Context>
+      <Width>420</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="21.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping>Date_String</Mapping>
+    </Text>
+    <Text ID="Text25" X="35" Y="446">
+      <Context>批 号</Context>
+      <Width>140</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="21.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text26" X="185" Y="435">
+      <Context>W3</Context>
+      <Width>420</Width>
+      <Height>40</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="36" Style="Regular">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping>Lot_Name</Mapping>
+    </Text>
+    <Image ID="Image1" X="643" Y="319">
+      <FileFullPath>E:\PC_Program\C#\LabelFactory\LabelStorehouse\生产许可0.bmp</FileFullPath>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Image>
+    <Text ID="Text27" X="475" Y="326">
+      <Context>检2</Context>
+      <Width>130</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="21.75" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping>Quality_Inspector_String</Mapping>
+    </Text>
+    <Image ID="Image2" X="6" Y="16">
+      <FileFullPath>E:\PC_Program\C#\LabelFactory\LabelStorehouse\title.bmp</FileFullPath>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Image>
+    <Text ID="Text4" X="615" Y="464">
+      <Context>(冀)XK16-204-01088</Context>
+      <Width>150</Width>
+      <Height>26</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="12" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text6" X="617" Y="435">
+      <Context>生产许可</Context>
+      <Width>150</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="14.25" Style="Bold">黑体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Barcode ID="Barcode0" X="552" Y="503">
+      <Context>20200524100001</Context>
+      <Height>70</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Magnify>2</Magnify>
+      <Type>Code128C</Type>
+      <TextPosition>BottomCenter</TextPosition>
+      <Font Size="12" Style="Regular">黑体</Font>
+      <Mapping>Barcode</Mapping>
+    </Barcode>
+  </Elements>
+</Label>

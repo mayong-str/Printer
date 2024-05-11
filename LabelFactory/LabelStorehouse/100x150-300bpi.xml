@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Label>
+  <BasicInfo>
+    <Name>100x150-300bpi</Name>
+    <Width_mm>100</Width_mm>
+    <Height_mm>150</Height_mm>
+    <LabelsPerLine>1</LabelsPerLine>
+    <Gap_mm>0</Gap_mm>
+    <DotPerMillimeter>12</DotPerMillimeter>
+    <Width_Dot>1200</Width_Dot>
+    <Height_Dot>1800</Height_Dot>
+    <Gap_Dot>0</Gap_Dot>
+  </BasicInfo>
+  <Elements>
+    <Barcode ID="Barcode0" X="1074" Y="7">
+      <Context>09876543210987654321</Context>
+      <Height>100</Height>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+      <Magnify>4</Magnify>
+      <Type>Code128B</Type>
+      <TextPosition>TopRight</TextPosition>
+      <Font Size="24" Style="Regular">宋体</Font>
+      <Mapping></Mapping>
+    </Barcode>
+    <Barcode ID="Barcode1" X="0" Y="0">
+      <Context>12345678901234567890</Context>
+      <Height>400</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Magnify>4</Magnify>
+      <Type>Code128B</Type>
+      <TextPosition>TopLeft</TextPosition>
+      <Font Size="36" Style="Bold">宋体</Font>
+      <Mapping></Mapping>
+    </Barcode>
+    <QrCode ID="QrCode0" X="45" Y="422">
+      <Context>ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890</Context>
+      <ErrorCorrectionLevel>H</ErrorCorrectionLevel>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Magnify>20</Magnify>
+      <Mapping></Mapping>
+    </QrCode>
+    <Barcode ID="Barcode2" X="41" Y="1182">
+      <Context>2432352436573567354724</Context>
+      <Height>600</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Magnify>4</Magnify>
+      <Type>Code128B</Type>
+      <TextPosition>TopCenter</TextPosition>
+      <Font Size="21.75" Style="Regular">宋体</Font>
+    </Barcode>
+  </Elements>
+</Label>

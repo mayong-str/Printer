@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Label>
+  <BasicInfo>
+    <Name>40x25</Name>
+    <Width_mm>40</Width_mm>
+    <Height_mm>25</Height_mm>
+    <LabelsPerLine>2</LabelsPerLine>
+    <Gap_mm>2</Gap_mm>
+    <DotPerMillimeter>8</DotPerMillimeter>
+    <Width_Dot>320</Width_Dot>
+    <Height_Dot>200</Height_Dot>
+    <Gap_Dot>16</Gap_Dot>
+  </BasicInfo>
+  <Elements>
+    <Text ID="Text0" X="25" Y="15">
+      <Context>杭州长江实验小学</Context>
+      <Width>0</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="24" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text1" X="81" Y="65">
+      <Context>一（1）班</Context>
+      <Width>0</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="24" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+    <Text ID="Text2" X="81" Y="129">
+      <Context>施语晨</Context>
+      <Width>0</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="36" Style="Regular">宋体</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+    </Text>
+  </Elements>
+</Label>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <LangVersion>preview</LangVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6BD7A0D9-98E0-4037-8CF6-EFAA321FDFDD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LabelCommon</RootNamespace>
+    <AssemblyName>LabelCommon</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Gma.QrCodeNet.Encoding, Version=0.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Gma.QrCodeNet.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zxing, Version=0.16.4.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\zxing.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ColorHelper.cs" />
+    <Compile Include="ImageAndBitmapHelper.cs" />
+    <Compile Include="LabelElementParameterEnum.cs" />
+    <Compile Include="Barcode128Class.cs" />
+    <Compile Include="LabelElement\BarcodeElementClass.cs" />
+    <Compile Include="LabelElement\DataMatrixElementClass.cs" />
+    <Compile Include="LabelElement\ImageElementClass.cs" />
+    <Compile Include="LabelClass.cs" />
+    <Compile Include="LabelElement\LabelElementCommonClass.cs" />
+    <Compile Include="LabelBasicInfoClass.cs" />
+    <Compile Include="LabelElementCreationHepler.cs" />
+    <Compile Include="LabelElement\LineElementClass.cs" />
+    <Compile Include="LabelElement\QrCodeElementClass.cs" />
+    <Compile Include="LabelElement\TextElementClass.cs" />
+    <Compile Include="Printer\Cab\CabPrinterClass.cs" />
+    <Compile Include="Printer\Cab\CabPrinterStatusClass.cs" />
+    <Compile Include="Printer\CommonClass.cs" />
+    <Compile Include="Printer\EPSON\EpsonPrinterUtil_ZPLII.cs" />
+    <Compile Include="Printer\ILabel.cs" />
+    <Compile Include="Printer\IPrinter.cs" />
+    <Compile Include="Printer\TSC\TSC_DllUtil.cs" />
+    <Compile Include="Printer\Zebra\ZebraPrinterClass.cs" />
+    <Compile Include="Printer\Zebra\ZebraPrinterUtil_ZPLII.cs" />
+    <Compile Include="Printer\Zebra\ZebraPrinterStatusClass.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SocketSendReceive.cs" />
+    <Compile Include="Xml\LabelFormatAndXml.cs" />
+    <Compile Include="Xml\PrinterClassAndXml.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

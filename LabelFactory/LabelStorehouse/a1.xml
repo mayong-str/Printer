@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Label>
+  <BasicInfo>
+    <Name>a1</Name>
+    <Width_mm>100</Width_mm>
+    <Height_mm>75</Height_mm>
+    <LabelsPerLine>1</LabelsPerLine>
+    <Gap_mm>0</Gap_mm>
+    <DotPerMillimeter>8</DotPerMillimeter>
+    <Width_Dot>800</Width_Dot>
+    <Height_Dot>600</Height_Dot>
+    <Gap_Dot>0</Gap_Dot>
+  </BasicInfo>
+  <Elements>
+    <Barcode ID="Barcode1" X="406" Y="435" ForeColor="#FFFF0000" BackColor="#FFFFFFFF">
+      <Context>22222222</Context>
+      <Height>60</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Magnify>2</Magnify>
+      <Type>Code128B</Type>
+      <TextPosition>BottomCenter</TextPosition>
+      <Font Size="14.25" Style="Regular">宋体</Font>
+      <Mapping></Mapping>
+    </Barcode>
+    <Barcode ID="Barcode2" X="150" Y="76" ForeColor="#FF000000" BackColor="#FF80FFFF">
+      <Context>333333</Context>
+      <Height>50</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Magnify>1</Magnify>
+      <Type>Code128B</Type>
+      <TextPosition>TopCenter</TextPosition>
+      <Font Size="9" Style="Regular">宋体</Font>
+      <Mapping></Mapping>
+    </Barcode>
+    <Text ID="Text0" X="432" Y="80" ForeColor="#FFFFFF80" BackColor="#FF000000">
+      <Context>杭州和华</Context>
+      <Width>200</Width>
+      <Height>80</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="21.75" Style="Regular">微软雅黑</Font>
+      <Inversion>true</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <Text ID="Text1" X="130" Y="397" ForeColor="#FFFF0000" BackColor="#FF8080FF">
+      <Context>ASDFGHJ</Context>
+      <Width>0</Width>
+      <Height>0</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="21.75" Style="Bold, Italic, Underline, Strikeout">微软雅黑</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping></Mapping>
+    </Text>
+    <QrCode ID="QrCode0" X="306" Y="209" ForeColor="#FFFF0080" BackColor="#FFC0C0C0">
+      <Context>hzhehua</Context>
+      <ErrorCorrectionLevel>M</ErrorCorrectionLevel>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Magnify>6</Magnify>
+      <Mapping></Mapping>
+    </QrCode>
+    <Line ID="Line0" X="86" Y="69" ForeColor="#FFFF0080">
+      <Length>400</Length>
+      <Thickness>4</Thickness>
+      <RotateFlip>Rotate90FlipNone</RotateFlip>
+    </Line>
+    <Line ID="Line1" X="95" Y="522" ForeColor="#FF000000">
+      <Length>600</Length>
+      <Thickness>2</Thickness>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Line>
+    <Image ID="Image0" X="539" Y="280">
+      <FileFullPath>E:\LabelFactory\LabelFactory\bin\Debug\a1.bmp</FileFullPath>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+    </Image>
+  </Elements>
+</Label>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Label>
+  <BasicInfo>
+    <Name>ZC_A_35mm*25mm_300bpi</Name>
+    <Width_mm>35</Width_mm>
+    <Height_mm>25</Height_mm>
+    <LabelsPerLine>1</LabelsPerLine>
+    <Gap_mm>0</Gap_mm>
+    <DotPerMillimeter>12</DotPerMillimeter>
+    <Width_Dot>420</Width_Dot>
+    <Height_Dot>300</Height_Dot>
+    <Gap_Dot>0</Gap_Dot>
+  </BasicInfo>
+  <Elements>
+    <Text ID="Text0" X="105" Y="40" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>10</Context>
+      <Width>200</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="18" Style="Regular">微软雅黑</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping>outletinfoa</Mapping>
+    </Text>
+    <Text ID="Text1" X="105" Y="214" ForeColor="#FF000000" BackColor="#FFFFFFFF">
+      <Context>11</Context>
+      <Width>200</Width>
+      <Height>30</Height>
+      <RotateFlip>RotateNoneFlipNone</RotateFlip>
+      <Font Size="18" Style="Regular">微软雅黑</Font>
+      <Inversion>false</Inversion>
+      <TextAlign>MiddleCenter</TextAlign>
+      <Mapping>outletinfob</Mapping>
+    </Text>
+  </Elements>
+</Label>
